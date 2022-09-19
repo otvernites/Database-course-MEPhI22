@@ -1,5 +1,5 @@
 # Database-course-MEPhI22
-- [Проект по разработке базы данных для кулинарных курсов](https://github.com/otvernites/Database-course-MEPhI22/tree/main/Main%20task), выполненный в рамках соответствующего семестрового курса. </br>
+- [Проект по разработке базы данных для кулинарных курсов](https://github.com/otvernites/Database-course-MEPhI22/tree/main/Main%20task). </br>
   + *"task.png"* - подробное описание условия задания;
   + *"fill_db.py"* - скрипт для генерации данных с использованием библиотеки faker;
 
