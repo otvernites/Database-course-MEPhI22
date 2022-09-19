@@ -9,3 +9,5 @@
   + *"requests.sql"* - запросы;
 
 - [Дополнительные задания](https://github.com/otvernites/Database-course-MEPhI22/tree/main/Additional%20tasks) по написанию запросов.</br>
+  + без использования агрегатных функций
+  + с использованием агрегатных функций
